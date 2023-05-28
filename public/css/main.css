@@ -1,0 +1,25 @@
+body {
+  background: #fff34f;
+  margin: 0 auto;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 60px;
+  background: black;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-right: 20px;
+}
+h1 {
+  text-align: center;
+}
+p {
+  max-width: 400px;
+  margin: 0 auto;
+}
